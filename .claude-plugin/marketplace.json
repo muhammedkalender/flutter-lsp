@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "muhammedkalender",
+  "description": "Community Claude Code plugins by Muhammed Kalender (not affiliated with Anthropic)",
+  "owner": {
+    "name": "Muhammed Kalender",
+    "url": "https://github.com/muhammedkalender"
+  },
+  "plugins": [
+    {
+      "name": "flutter-lsp",
+      "description": "Dart/Flutter language server (Dart analysis server) for code intelligence",
+      "source": "./plugins/flutter-lsp",
+      "category": "development"
+    }
+  ]
+}

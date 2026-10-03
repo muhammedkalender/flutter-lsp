@@ -1,0 +1,13 @@
+{
+  "name": "flutter-lsp",
+  "description": "Dart/Flutter language server (Dart analysis server) for code intelligence",
+  "version": "1.0.0",
+  "author": {
+    "name": "Muhammed Kalender",
+    "url": "https://github.com/muhammedkalender"
+  },
+  "homepage": "https://github.com/muhammedkalender/flutter-lsp",
+  "repository": "https://github.com/muhammedkalender/flutter-lsp",
+  "license": "MIT",
+  "keywords": ["dart", "flutter", "lsp", "language-server"]
+}
